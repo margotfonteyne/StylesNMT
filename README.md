@@ -10,6 +10,8 @@ ZIP file containing the project as exported from WebAnno, including all settings
 ZIP file containing the exported annotations in [UIMA XMI](https://uima.apache.org/d/uimaj-current/references.html#ugr.ref.xmi) file format. In this format, the annotations can be processed in Python with the help of the [DKPro cassis](https://github.com/dkpro/dkpro-cassis) library.
 ### WebAnno_Annotations-tsv.zip
 ZIP file containing the exported annotations in [WebAnno TSV3](https://webanno.github.io/webanno/releases/3.6.4/docs/user-guide.html#sect_webannotsv) file format.
+### AnnotationGuidelines.pdf
+PDF containing the guidelines used to annotate the novel.
 ## Citing
 The data set is free to use for research purposes. Please cite the following paper if you use it in your research:<br>
 * Fonteyne, M., Tezcan, A., & Macken, L. (2020). Literary machine translation under the magnifying glass : assessing the quality of an NMT-translated detective novel on document level. In N. Calzolari, F. Béchet, P. Blache, K. Choukri, C. Cieri, T. Declerck, … S. Piperidis (Eds.), *12th International Conference on Language Resources and Evaluation Conference (LREC 2020), Proceedings* (pp. 3783–3791). Paris, France: European Language Resources Association (ELRA).
